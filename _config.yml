@@ -96,7 +96,7 @@ author:
                       UIUC CEE 2021 GO ILL-INI. Interested in coding, investment, finance, company analysis etc. 
                       Let's go grab some coffee. "
   location         : "Somewhere"
-  email            : "jungepark4@gmail.com" 
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
