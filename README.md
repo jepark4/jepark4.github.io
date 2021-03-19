@@ -4,9 +4,15 @@ This is my own GitHub blog starting from 2021
 Hello! Welcome to my github blog web source. 
 -----------------------------------------------------------------------------------------------------------
 I am using Jekyll as you can see from my blog. Most of the time it would be random posts related to my interests. 
+
 It is my first time using (well not first time) but i'm still a newbie in markdown. 
 
-My prior interest lies in Finance, Investment, stock investment, analysis, energy, coding and construction management. 
+My prior interest lies in 
++ Finance & Investment 
++ Analysis
++ Energy & construction management.
++ Coding (I did some python, R and java) 
+
 I know it's a lot but i will try to update from time to time 
 
 --------------------------------------------------------------------
