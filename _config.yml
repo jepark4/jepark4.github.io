@@ -91,10 +91,9 @@ analytics:
 author:
   name             : "Ethan Park <br/> (Jung Eun Park)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person. 
-  
-                      UIUC CEE 2021 GO ILL-INI. Interested in coding, investment, finance, company analysis etc. 
-                      
+  bio              : "I am an **amazing** person.    
+  UIUC CEE 2021 GO ILL-INI. 
+  Interested in coding, investment, finance, company analysis etc. 
                       Let's go grab some coffee. "
   location         : "Somewhere"
   email            : 
