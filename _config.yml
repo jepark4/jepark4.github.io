@@ -14,8 +14,8 @@ locale                   : "en-US"
 title                    : "Hello World!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jepark4 "
-description              : "An amazing website."
+name                     : "Ethan Park "
+description              : "Ethan's 2021 Blog_ Hello World"
 url                      : "https://jepark4.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,7 +89,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ethan Park \n (Jung Eun Park)"
+  name             : "Ethan Park <br/> (Jung Eun Park)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person. 
   
