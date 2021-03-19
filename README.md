@@ -1,5 +1,5 @@
 # Building MY Github Blog for 2021 
-## This is my own GitHub blog starting from 2021 
+This is my own GitHub blog starting from 2021 
 
 Hello! Welcome to my github blog web source. 
 -----------------------------------------------------------------------------------------------------------
