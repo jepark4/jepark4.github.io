@@ -13,9 +13,8 @@ My prior interest lies in
 + Energy & construction management.
 + Coding (I did some python, R and java) 
 
-I know it's a lot but i will try to update from time to time 
+I know it's a lot but will try to update from time to time 
 
---------------------------------------------------------------------
 ## There are some of the things that i want to do 
 1. Upload summary of finance courses 
 2. Come up with some macro economic material everyday 
